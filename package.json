@@ -87,7 +87,7 @@
     "tailwindcss-animate": "^1.0.7",
     "typescript": "^5.8.3",
     "typescript-eslint": "^8.3.0",
-    "unplugin-element-plus": "^0.10.0",
+    "unplugin-element-plus": "^0.11.1",
     "vite": "^7.1.2",
     "vite-plugin-html": "catalog:",
     "vitest": "^3.2.4",
