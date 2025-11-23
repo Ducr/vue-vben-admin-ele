@@ -127,8 +127,8 @@ catalogs:
       specifier: ^3.5.17
       version: 3.5.24
     '@vueuse/core':
-      specifier: ^13.4.0
-      version: 13.9.0
+      specifier: ^14.0.0
+      version: 14.0.0
     '@vueuse/integrations':
       specifier: ^14.0.0
       version: 14.0.0
@@ -1127,7 +1127,7 @@ importers:
         version: link:../base/shared
       '@vueuse/core':
         specifier: 'catalog:'
-        version: 13.9.0(vue@3.5.24(typescript@5.9.3))
+        version: 14.0.0(vue@3.5.24(typescript@5.9.3))
       reka-ui:
         specifier: 'catalog:'
         version: 2.6.0(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3))
@@ -1152,7 +1152,7 @@ importers:
         version: link:../base/typings
       '@vueuse/core':
         specifier: 'catalog:'
-        version: 13.9.0(vue@3.5.24(typescript@5.9.3))
+        version: 14.0.0(vue@3.5.24(typescript@5.9.3))
       vue:
         specifier: 'catalog:'
         version: 3.5.24(typescript@5.9.3)
@@ -1179,7 +1179,7 @@ importers:
         version: 4.15.1(vue@3.5.24(typescript@5.9.3))(zod@3.25.76)
       '@vueuse/core':
         specifier: 'catalog:'
-        version: 13.9.0(vue@3.5.24(typescript@5.9.3))
+        version: 14.0.0(vue@3.5.24(typescript@5.9.3))
       vee-validate:
         specifier: 'catalog:'
         version: 4.15.1(vue@3.5.24(typescript@5.9.3))
@@ -1212,7 +1212,7 @@ importers:
         version: link:../../base/typings
       '@vueuse/core':
         specifier: 'catalog:'
-        version: 13.9.0(vue@3.5.24(typescript@5.9.3))
+        version: 14.0.0(vue@3.5.24(typescript@5.9.3))
       vue:
         specifier: 'catalog:'
         version: 3.5.24(typescript@5.9.3)
@@ -1236,7 +1236,7 @@ importers:
         version: link:../../base/typings
       '@vueuse/core':
         specifier: 'catalog:'
-        version: 13.9.0(vue@3.5.24(typescript@5.9.3))
+        version: 14.0.0(vue@3.5.24(typescript@5.9.3))
       vue:
         specifier: 'catalog:'
         version: 3.5.24(typescript@5.9.3)
@@ -1260,7 +1260,7 @@ importers:
         version: link:../../base/typings
       '@vueuse/core':
         specifier: 'catalog:'
-        version: 13.9.0(vue@3.5.24(typescript@5.9.3))
+        version: 14.0.0(vue@3.5.24(typescript@5.9.3))
       vue:
         specifier: 'catalog:'
         version: 3.5.24(typescript@5.9.3)
@@ -1281,7 +1281,7 @@ importers:
         version: link:../../base/typings
       '@vueuse/core':
         specifier: 'catalog:'
-        version: 13.9.0(vue@3.5.24(typescript@5.9.3))
+        version: 14.0.0(vue@3.5.24(typescript@5.9.3))
       class-variance-authority:
         specifier: 'catalog:'
         version: 0.7.1
@@ -1314,7 +1314,7 @@ importers:
         version: link:../../base/typings
       '@vueuse/core':
         specifier: 'catalog:'
-        version: 13.9.0(vue@3.5.24(typescript@5.9.3))
+        version: 14.0.0(vue@3.5.24(typescript@5.9.3))
       vue:
         specifier: 'catalog:'
         version: 3.5.24(typescript@5.9.3)
@@ -1377,7 +1377,7 @@ importers:
         version: link:../../types
       '@vueuse/core':
         specifier: 'catalog:'
-        version: 13.9.0(vue@3.5.24(typescript@5.9.3))
+        version: 14.0.0(vue@3.5.24(typescript@5.9.3))
       '@vueuse/integrations':
         specifier: 'catalog:'
         version: 14.0.0(async-validator@4.2.5)(axios@1.13.2)(focus-trap@7.6.6)(nprogress@0.2.0)(qrcode@1.5.4)(sortablejs@1.15.6)(vue@3.5.24(typescript@5.9.3))
@@ -1426,7 +1426,7 @@ importers:
         version: link:../../utils
       '@vueuse/core':
         specifier: 'catalog:'
-        version: 13.9.0(vue@3.5.24(typescript@5.9.3))
+        version: 14.0.0(vue@3.5.24(typescript@5.9.3))
       vue:
         specifier: 'catalog:'
         version: 3.5.24(typescript@5.9.3)
@@ -1489,7 +1489,7 @@ importers:
         version: link:../../utils
       '@vueuse/core':
         specifier: 'catalog:'
-        version: 13.9.0(vue@3.5.24(typescript@5.9.3))
+        version: 14.0.0(vue@3.5.24(typescript@5.9.3))
       vue:
         specifier: 'catalog:'
         version: 3.5.24(typescript@5.9.3)
@@ -1528,7 +1528,7 @@ importers:
         version: link:../../utils
       '@vueuse/core':
         specifier: 'catalog:'
-        version: 13.9.0(vue@3.5.24(typescript@5.9.3))
+        version: 14.0.0(vue@3.5.24(typescript@5.9.3))
       '@vueuse/motion':
         specifier: 'catalog:'
         version: 3.0.3(magicast@0.5.1)(vue@3.5.24(typescript@5.9.3))
