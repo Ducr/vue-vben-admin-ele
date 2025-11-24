@@ -333,7 +333,7 @@ export const MOCK_MENU_LIST = [
         status: 1,
         meta: {
           icon: 'carbon:book',
-          iframeSrc: 'https://doc.vben.pro',
+          iframeSrc: 'https://ducrong.com/vue-vben-admin-ele/docs',
           title: 'demos.vben.document',
         },
       },
@@ -362,7 +362,7 @@ export const MOCK_MENU_LIST = [
         meta: {
           icon: 'carbon:hexagon-vertical-solid',
           badgeType: 'dot',
-          link: 'https://ant.vben.pro',
+          link: 'https://ducrong.com/vue-vben-admin-antd',
           title: 'demos.vben.antdv',
         },
       },

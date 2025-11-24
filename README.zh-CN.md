@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/anncwb/vue-vben-admin">
+  <a href="https://github.com/Ducr/vue-vben-admin-ele">
     <img alt="VbenAdmin Logo" width="215" src="https://unpkg.com/@vbenjs/static-source@0.1.7/source/logo-v1.webp">
   </a>
   <br>
@@ -10,7 +10,7 @@
   <h1>Vue Vben Admin</h1>
 </div>
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=vbenjs_vue-vben-admin&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=vbenjs_vue-vben-admin) ![codeql](https://github.com/vbenjs/vue-vben-admin/actions/workflows/codeql.yml/badge.svg) ![build](https://github.com/vbenjs/vue-vben-admin/actions/workflows/build.yml/badge.svg) ![ci](https://github.com/vbenjs/vue-vben-admin/actions/workflows/ci.yml/badge.svg) ![deploy](https://github.com/vbenjs/vue-vben-admin/actions/workflows/deploy.yml/badge.svg)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=vbenjs_vue-vben-admin&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=vbenjs_vue-vben-admin) ![codeql](https://github.com/Ducr/vue-vben-admin-ele/actions/workflows/codeql.yml/badge.svg) ![build](https://github.com/Ducr/vue-vben-admin-ele/actions/workflows/build.yml/badge.svg) ![ci](https://github.com/Ducr/vue-vben-admin-ele/actions/workflows/ci.yml/badge.svg) ![deploy](https://github.com/Ducr/vue-vben-admin-ele/actions/workflows/deploy.yml/badge.svg)
 
 **中文** | [English](./README.md) | [日本語](./README.ja-JP.md)
 
@@ -20,7 +20,7 @@ Vue Vben Admin 是 Vue Vben Admin 的升级版本。作为一个免费开源的�
 
 ## 升级提示
 
-该版本为最新版本 `5.0`，与其他版本不兼容，如果你是新项目，建议使用最新版本。如果你想查看旧版本，请使用 [v2 分支](https://github.com/vbenjs/vue-vben-admin/tree/v2)
+该版本为最新版本 `5.0`，与其他版本不兼容，如果你是新项目，建议使用最新版本。如果你想查看旧版本，请使用 [v2 分支](https://github.com/Ducr/vue-vben-admin-ele/tree/v2)
 
 ## 特性
 
@@ -46,18 +46,18 @@ Vue Vben Admin 是 Vue Vben Admin 的升级版本。作为一个免费开源的�
 
 在 Gitpod（适用于 GitHub 的免费在线开发环境）中打开项目，并立即开始编码。
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/vbenjs/vue-vben-admin)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Ducr/vue-vben-admin-ele)
 
 ## 文档
 
-[文档地址](https://doc.vben.pro/)
+[文档地址](https://ducrong.com/vue-vben-admin-ele/docs/)
 
 ## 安装使用
 
 1. 获取项目代码
 
 ```bash
-git clone https://github.com/vbenjs/vue-vben-admin.git
+git clone https://github.com/Ducr/vue-vben-admin-ele.git
 ```
 
 2. 安装依赖
@@ -82,11 +82,11 @@ pnpm build
 
 ## 更新日志
 
-[CHANGELOG](https://github.com/vbenjs/vue-vben-admin/releases)
+[CHANGELOG](https://github.com/Ducr/vue-vben-admin-ele/releases)
 
 ## 如何贡献
 
-非常欢迎你的加入！[提一个 Issue](https://github.com/anncwb/vue-vben-admin/issues/new/choose) 或者提交一个 Pull Request。
+非常欢迎你的加入！[提一个 Issue](https://github.com/Ducr/vue-vben-admin-ele/issues/new/choose) 或者提交一个 Pull Request。
 
 **Pull Request 流程：**
 
@@ -124,11 +124,11 @@ pnpm build
 
 ## 维护者
 
-[@Vben](https://github.com/anncwb)
+[@Vben](https://github.com/Ducr)
 
 ## Star 历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=vbenjs/vue-vben-admin&type=Date)](https://star-history.com/#vbenjs/vue-vben-admin&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Ducr/vue-vben-admin-ele&type=Date)](https://star-history.com/#Ducr/vue-vben-admin-ele&Date)
 
 ## 捐赠
 
@@ -140,17 +140,17 @@ pnpm build
 
 ## 贡献者
 
-<a href="https://openomy.app/github/vbenjs/vue-vben-admin" target="_blank" style="display: block; width: 100%;" align="center">
-  <img src="https://openomy.app/svg?repo=vbenjs/vue-vben-admin&chart=bubble&latestMonth=3" target="_blank" alt="Contribution Leaderboard" style="display: block; width: 100%;" />
+<a href="https://openomy.app/github/Ducr/vue-vben-admin-ele" target="_blank" style="display: block; width: 100%;" align="center">
+  <img src="https://openomy.app/svg?repo=Ducr/vue-vben-admin-ele&chart=bubble&latestMonth=3" target="_blank" alt="Contribution Leaderboard" style="display: block; width: 100%;" />
  </a>
 
-<a href="https://github.com/vbenjs/vue-vben-admin/graphs/contributors">
-  <img alt="Contributors" src="https://contrib.rocks/image?repo=vbenjs/vue-vben-admin" />
+<a href="https://github.com/Ducr/vue-vben-admin-ele/graphs/contributors">
+  <img alt="Contributors" src="https://contrib.rocks/image?repo=Ducr/vue-vben-admin-ele" />
 </a>
 
 ## Discord
 
-- [Github Discussions](https://github.com/anncwb/vue-vben-admin/discussions)
+- [Github Discussions](https://github.com/Ducr/vue-vben-admin-ele/discussions)
 
 ## 许可证
 

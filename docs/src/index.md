@@ -19,7 +19,7 @@ hero:
       link: https://www.vben.pro
     - theme: alt
       text: 在 GitHub 查看
-      link: https://github.com/vbenjs/vue-vben-admin
+      link: https://github.com/Ducr/vue-vben-admin-ele
     - theme: alt
       text: DeepWiki 文档
       link: https://deepwiki.com/vbenjs/vue-vben-admin
@@ -91,7 +91,7 @@ const members = [
     title: '创建者',
     desc: 'Vben Admin以及相关生态的作者，负责项目的整体开发。',
     links: [
-      { icon: 'github', link: 'https://github.com/anncwb' },
+      { icon: 'github', link: 'https://github.com/Ducr' },
     ]
   },
 ]

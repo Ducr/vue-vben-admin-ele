@@ -46,7 +46,7 @@ export const shared = defineConfig({
     },
     siteTitle: 'Vben Admin',
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vbenjs/vue-vben-admin' },
+      { icon: 'github', link: 'https://github.com/Ducr/vue-vben-admin-ele' },
     ],
   },
   title: 'Vben Admin',
@@ -76,8 +76,8 @@ export const shared = defineConfig({
         mapAuthors: [
           {
             mapByNameAliases: ['Vben'],
-            name: 'vben',
-            username: 'anncwb',
+            name: 'Ducr',
+            username: 'Ducr',
           },
           {
             name: 'vince',
@@ -88,7 +88,7 @@ export const shared = defineConfig({
             username: 'likui628',
           },
         ],
-        repoURL: () => 'https://github.com/vbenjs/vue-vben-admin',
+        repoURL: () => 'https://github.com/Ducr/vue-vben-admin-ele',
       }),
       GitChangelogMarkdownSection(),
       viteArchiverPlugin({ outputDir: '.vitepress' }),
@@ -111,7 +111,7 @@ export const shared = defineConfig({
 
 function head(): HeadConfig[] {
   return [
-    ['meta', { content: 'Vbenjs Team', name: 'author' }],
+    ['meta', { content: 'Ducr', name: 'author' }],
     [
       'meta',
       {

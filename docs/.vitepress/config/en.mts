@@ -16,7 +16,7 @@ export const en = defineConfig({
     },
     editLink: {
       pattern:
-        'https://github.com/vbenjs/vue-vben-admin/edit/main/docs/src/:path',
+        'https://github.com/Ducr/vue-vben-admin-ele/edit/main/docs/src/:path',
       text: 'Edit this page on GitHub',
     },
     footer: {
@@ -170,15 +170,15 @@ function nav(): DefaultTheme.NavItem[] {
               text: 'Demo Version',
             },
             {
-              link: 'https://ant.vben.pro',
+              link: 'https://ducrong.com/vue-vben-admin-antd',
               text: 'Ant Design Vue Version',
             },
             {
-              link: 'https://naive.vben.pro',
+              link: 'https://ducrong.com/vue-vben-admin-naive',
               text: 'Naive Version',
             },
             {
-              link: 'https://ele.vben.pro',
+              link: 'https://ducrong.com/vue-vben-admin-ele',
               text: 'Element Plus Version',
             },
           ],
@@ -198,7 +198,7 @@ function nav(): DefaultTheme.NavItem[] {
       text: version,
       items: [
         {
-          link: 'https://github.com/vbenjs/vue-vben-admin/releases',
+          link: 'https://github.com/Ducr/vue-vben-admin-ele/releases',
           text: 'Changelog',
         },
         {
@@ -206,7 +206,7 @@ function nav(): DefaultTheme.NavItem[] {
           text: 'Roadmap',
         },
         {
-          link: 'https://github.com/vbenjs/vue-vben-admin/blob/main/.github/contributing.md',
+          link: 'https://github.com/Ducr/vue-vben-admin-ele/blob/main/.github/contributing.md',
           text: 'Contribution',
         },
       ],

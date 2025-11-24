@@ -14,14 +14,14 @@
     "vue vben admin pro",
     "vue3"
   ],
-  "homepage": "https://github.com/vbenjs/vue-vben-admin",
-  "bugs": "https://github.com/vbenjs/vue-vben-admin/issues",
-  "repository": "vbenjs/vue-vben-admin.git",
+  "homepage": "https://github.com/Ducr/vue-vben-admin-ele",
+  "bugs": "https://github.com/Ducr/vue-vben-admin-ele/issues",
+  "repository": "Ducr/vue-vben-admin-ele.git",
   "license": "MIT",
   "author": {
-    "name": "vben",
-    "email": "ann.vben@gmail.com",
-    "url": "https://github.com/anncwb"
+    "name": "Ducr",
+    "email": "ducrong@126.com",
+    "url": "https://github.com/Ducr"
   },
   "type": "module",
   "scripts": {
