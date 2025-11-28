@@ -48,6 +48,7 @@
     "vue-router": "catalog:"
   },
   "devDependencies": {
+    "cssnano": "catalog:",
     "unplugin-element-plus": "catalog:"
   }
 }
